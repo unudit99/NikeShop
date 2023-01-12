@@ -31,7 +31,7 @@ fun BottomBar() {
                 contentDescription = "",
                 modifier = Modifier
                         .weight(1f)
-                        .size(20.dp, 20.dp)
+                        .size(23.dp, 20.dp)
         )
         Icon(
                 painter = painterResource(R.drawable.ic_baseline_search_24),
