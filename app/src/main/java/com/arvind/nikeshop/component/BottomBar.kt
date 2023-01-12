@@ -36,7 +36,7 @@ fun BottomBar() {
         Icon(
                 painter = painterResource(R.drawable.ic_baseline_search_24),
                 tint = lightSilver,
-                contentDescription = "",
+                contentDescription = "hell",
                 modifier = Modifier
                         .weight(1f)
                         .size(20.dp, 20.dp)
