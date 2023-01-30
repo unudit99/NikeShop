@@ -11,3 +11,4 @@ Material Components)
 
 
 ►Design Credit: https://dribbble.com/shots/10446127-E-commerce-App-Exploration/attachments/2283107?mode=media
+[![Build status](https://build.appcenter.ms/v0.1/apps/216fce72-3bd6-4f4c-85f4-71155ddfb40b/branches/master/badge)](https://appcenter.ms)
